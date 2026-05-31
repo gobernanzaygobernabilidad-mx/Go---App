@@ -1,0 +1,10 @@
+.env
+.env.local
+*.pem
+*.key
+node_modules/
+.dart_tool/
+build/
+.DS_Store
+.vscode/
+.idea/
